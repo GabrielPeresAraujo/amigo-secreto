@@ -82,8 +82,7 @@ amigo-secreto/
 ## Contribuições
 Sinta-se à vontade para contribuir com o projeto abrindo issues ou pull requests no repositório oficial.
 
----
-
-## Licença
-Este projeto é de código aberto e pode ser usado livremente para fins educacionais e pessoais.
+## Desafios:
+O principal desafio que tive ao fazer esse projeto foi formatar a lista de amigos em 'li', não consegui fazer o projeto até buscar algumas funções que poderiam me ajudar,
+tirando isso eu achei um projeto simples devido ao que ja tinha estudado anteriormente.
 
